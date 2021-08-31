@@ -1,0 +1,17 @@
+Programming language are classified into various Programming Paradigm  (Programming Paradigm - Different ways to write the code)
+Such as 
+1. Procedural
+2. Object Oriented 
+3. Imperative 
+
+All the programming lanaguage are classified based on their features
+
+For Example :
+Python support mulitple programming paradigm (Imperative , Object Oriented , Procedural , Functional)
+
+procedular Paradigm - To build a program step by step instruction is executed
+- It has reusable Block of statements
+
+Problem -
+1. It makes the program difficult
+2. It defines the varaibles globally
